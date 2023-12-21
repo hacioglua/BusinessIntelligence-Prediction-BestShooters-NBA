@@ -28,9 +28,9 @@ Results are presented, emphasizing accuracy rates, RMSE, ROC, and precision for 
 ## 4. Conclusion
 J48 and Random Forest emerge as top-performing algorithms for predicting the best shooters in the NBA. These algorithms exhibit high accuracy rates and other favorable metrics. Clustering algorithms, particularly Simple k-means and Filtered Clusterer, show promising results in grouping players based on shooting abilities. The study highlights the potential of machine learning algorithms in enhancing basketball analytics.
 
-## User Interface 
-![](ScreenShoots/DataSet.png)
-![](ScreenShoots/Visualizes.png)
+## Screen Shots
+![](ScreenShoots/DataSet-SS.png)
+![](ScreenShoots/Visualizes-SS.png)
 
 ## 5. References
 The paper concludes with references to relevant literature, acknowledging the role of data science in sports, especially basketball.
